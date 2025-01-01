@@ -5,9 +5,9 @@ const siteMetadata = {
   shortName: "Wiki",
   description:
     "Another Obsidian template that use gatsby-theme-primer-wiki, Welcome to your new Obsidian Knowledge Base!",
-  twitterName: "theowenyoung",
+  twitterName: "gaslightdatadao",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "https://demo-obsidian.owenyoung.com",
+  siteUrl: "https://digitalarchivo.github.io/obsidian-template-gatsby-theme-primer-wiki/",
 };
 module.exports = {
   siteMetadata,
@@ -34,11 +34,11 @@ module.exports = {
           },
           {
             title: "Twitter",
-            url: "https://twitter.com/theowenyoung",
+            url: "https://twitter.com/gaslightdatadao",
           },
         ],
         editUrl:
-          "https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki/tree/main/",
+          "https://github.com/digitalarchivo/obsidian-template-gatsby-theme-primer-wiki",
       },
     },
     {
